@@ -1,16 +1,36 @@
-# quiz_app
+# Tesla Model S
 
-A new Flutter project.
+# Flutter Quiz project
 
-## Getting Started
+Flutter Quiz app
+Bu flutter project Android va iOS uchun mo'ljanlangan bo'lib planshetlarda xam ishlatsa bo'ladi responsivlik va boshqa narsalar bo'yicha kamchiliklari bor kamchiliklar to'grilanadi
 
-This project is a starting point for a Flutter application.
+## Loyihani yangilash
 
-A few resources to get you started if this is your first Flutter project:
+Kodni yuklab oling pub get qilib loyihani yangilab oling.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+```
+## Ishga tushirish
+Anroid yoki iOS emulatorni ishga tushiring
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+## Apk qilish
+Bu flutter loyinani androidga .apk formatiga keltiramizz
+
+```bash
+flutter build apk --split-per-abi
+```
+# Ismoilovdev
+
+
+
+
+
+
+
+
+
